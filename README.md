@@ -8,7 +8,7 @@ Student’s answers from course evaluations yield crucial insights on receptivit
 
 While our analysis and results are adequate for Queensland University and its students, to a certain extent, the results of this work can be extended to other institutions to tailor the educational experience of their students to their needs and refine the strategies of course delivery for an enhanced student performance and quality of teaching at the university.
 
-# Methodoly
+# Methodology
 The work includes the following steps:
 * Data collection
 * Data Preprocessing
@@ -21,7 +21,7 @@ The work includes the following steps:
   - KMeans and Hierarchal Clustering
 
 
-# Concludion
+# Conclusion
 In this report, we used a dataset of course evaluations compiled over multiple years from the University of Queensland, Australia. Touching upon the goals identified earlier in the problem selection, our findings were as follows:
 
 SVM Model with radial kernel, gamma of 0.001, and cost of 10 resulted in the best prediction model when compared to different tree models.
